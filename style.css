@@ -3,9 +3,29 @@ body {
 }
 
 #rats {
-	background 
+	background-color: #c693db;
 }
 
 #home {
 background-image: url("castle.jpeg");
+font-family: 'Parisienne', cursive;
+}
+
+#jessie {
+	background-color: #d35beb;
+}
+
+#kickin
+{
+	background-color: #afeb81;
+}
+
+#Med {
+	background-color: #d43c04;
+}
+
+img {
+	display:  block;
+	margin-left: auto;
+	margin-right:  auto;
 }
